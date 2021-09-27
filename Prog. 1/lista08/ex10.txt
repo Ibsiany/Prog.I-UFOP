@@ -1,0 +1,5 @@
+p++ vai incrementar e acessar o próximo valor do endereço.
+
+(*p)++ incrementar o valor do conteúdo que p estiver apontando.
+
+*(p++) vai acessar o valor do vetor atual e incrementar o valor para o proximo endereço.

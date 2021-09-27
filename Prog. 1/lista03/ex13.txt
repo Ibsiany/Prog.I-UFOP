@@ -1,0 +1,4 @@
+Exercicio 13:
+
+O for é utilizado quando queremos incrementar um valor e testar sua condição, podendo ser possível fazer isso em sua própria condicional, ele também possui um laço de repetição para que seja executado enquanto sua condição for verdadeira
+já o while irá se repetir enquanto sua condição não for verdadeira, no while não é possível fazer o increment em sua condicional própria

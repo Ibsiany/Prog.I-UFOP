@@ -1,0 +1,7 @@
+Essa afirmação implica que não se deve passar o endereço do vetor quando chamamos a função, passamos o array por completo. 
+Por exemplo:
+	O correto é passar o parâmetro assim:
+	chama_funcao = execute(vetor);
+
+	E não assim:
+	chama_funcao = execute(vetor[2]);
